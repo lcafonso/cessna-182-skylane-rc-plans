@@ -14,6 +14,7 @@ Join us and chat/ask in **#cessna** on `irc.freenode.net` or connect with your b
 
 * Plans placed on 8.5" x 11" letterhead sheets for glueing together
 * Complete bill of materials and list of required materials
+* [StickerMule][sticker-mule] stickers that say "#cessna" to denote frequenter on IRC
 * Guide with detailed photos for building with $100 budget
 * Links for purchasing balsa/parts on eBay and craft stores
 * Integration of cockpit #808 #16 camera with fish eye lens
@@ -46,5 +47,6 @@ Join us and chat/ask in **#cessna** on `irc.freenode.net` or connect with your b
 
 [main]: https://raw.github.com/niftylettuce/cessna-182-skylane-rc-plans/master/main.png
 [special-updates]: http://goo.gl/axveW
+[sticker-mule]: http://www.stickermule.com/unlock?ref_id=5622709601
 [1]: https://github.com/niftylettuce/cessna-182-skylane-rc-plans/wiki
 [2]: http://webchat.freenode.net/?channels=cessna
