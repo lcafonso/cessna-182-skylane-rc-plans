@@ -40,7 +40,7 @@ Join us and chat/ask in **#cessna** on `irc.freenode.net` or connect with your b
 * Dave Blum
 
 
-## Credits
+## Contributors
 
 * Nick Baugh <niftylettuce@gmail.com>
 
