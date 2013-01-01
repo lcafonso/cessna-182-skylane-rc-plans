@@ -18,6 +18,6 @@ Join us and chat/ask in **#cessna** on `irc.freenode.net` or connect with your b
 * Nick Baugh <niftylettuce@gmail.com>
 
 
-[main]: https://raw.github.com/niftylettuce/express-cdn/master/main.png
+[main]: https://raw.github.com/niftylettuce/cessna-182-skylane-rc-plans/master/main.png
 [1]: https://github.com/niftylettuce/cessna-182-skylane-rc-plans/wiki
 [2]: http://webchat.freenode.net/?channels=cessna
