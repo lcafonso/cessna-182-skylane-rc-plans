@@ -9,6 +9,10 @@ Sign up for [special email updates][special-updates] with photos/tips/tricks sen
 
 Join us and chat/ask in **#cessna** on `irc.freenode.net` or connect with your browser on [WebChat][2].
 
+## TODO
+
+- [ ] rename "SANDWICH MAIN GEAR BETWEEN W5, W5A, W5" to "F5, F5A, F5"
+
 
 ## Plans
 
